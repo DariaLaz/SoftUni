@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.exe
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.deps.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.runtimeconfig.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\06. Jagged Array Manipulator\bin\Debug\netcoreapp3.1\06. Jagged Array Manipulator.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\06. Jagged Array Manipulator\obj\Debug\netcoreapp3.1\06. Jagged Array Manipulator.genruntimeconfig.cache

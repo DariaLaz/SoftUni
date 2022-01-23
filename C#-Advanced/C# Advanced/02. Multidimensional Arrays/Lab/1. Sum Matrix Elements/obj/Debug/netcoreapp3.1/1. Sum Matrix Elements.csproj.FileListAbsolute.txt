@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.exe
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.deps.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.runtimeconfig.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\1. Sum Matrix Elements\bin\Debug\netcoreapp3.1\1. Sum Matrix Elements.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\1. Sum Matrix Elements\obj\Debug\netcoreapp3.1\1. Sum Matrix Elements.genruntimeconfig.cache

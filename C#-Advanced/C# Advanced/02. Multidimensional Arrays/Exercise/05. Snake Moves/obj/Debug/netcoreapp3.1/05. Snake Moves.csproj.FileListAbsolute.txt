@@ -1,0 +1,12 @@
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\05. Snake Moves\bin\Debug\netcoreapp3.1\05. Snake Moves.exe
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\05. Snake Moves\bin\Debug\netcoreapp3.1\05. Snake Moves.deps.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\05. Snake Moves\bin\Debug\netcoreapp3.1\05. Snake Moves.runtimeconfig.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\05. Snake Moves\bin\Debug\netcoreapp3.1\05. Snake Moves.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\05. Snake Moves\bin\Debug\netcoreapp3.1\05. Snake Moves.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\05. Snake Moves\bin\Debug\netcoreapp3.1\05. Snake Moves.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\05. Snake Moves\obj\Debug\netcoreapp3.1\05. Snake Moves.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\05. Snake Moves\obj\Debug\netcoreapp3.1\05. Snake Moves.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\05. Snake Moves\obj\Debug\netcoreapp3.1\05. Snake Moves.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\05. Snake Moves\obj\Debug\netcoreapp3.1\05. Snake Moves.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\05. Snake Moves\obj\Debug\netcoreapp3.1\05. Snake Moves.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\05. Snake Moves\obj\Debug\netcoreapp3.1\05. Snake Moves.genruntimeconfig.cache

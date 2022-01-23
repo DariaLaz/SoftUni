@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.exe
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.deps.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.runtimeconfig.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\6. Jagged-Array Modification\bin\Debug\netcoreapp3.1\6. Jagged-Array Modification.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\6. Jagged-Array Modification\obj\Debug\netcoreapp3.1\6. Jagged-Array Modification.genruntimeconfig.cache

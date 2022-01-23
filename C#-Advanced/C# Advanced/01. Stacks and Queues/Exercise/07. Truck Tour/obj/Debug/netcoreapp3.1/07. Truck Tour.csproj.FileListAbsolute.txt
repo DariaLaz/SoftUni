@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.exe
+E:\softuni\03. C# Advanced\C# advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.deps.json
+E:\softuni\03. C# Advanced\C# advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.dll
+E:\softuni\03. C# Advanced\C# advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\07. Truck Tour\bin\Debug\netcoreapp3.1\07. Truck Tour.pdb
+E:\softuni\03. C# Advanced\C# advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.dll
+E:\softuni\03. C# Advanced\C# advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.pdb
+E:\softuni\03. C# Advanced\C# advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\07. Truck Tour\obj\Debug\netcoreapp3.1\07. Truck Tour.genruntimeconfig.cache

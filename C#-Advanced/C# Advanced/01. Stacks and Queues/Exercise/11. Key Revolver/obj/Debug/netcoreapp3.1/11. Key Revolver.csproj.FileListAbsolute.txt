@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.exe
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.deps.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.runtimeconfig.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.dll
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.pdb
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.dll
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.pdb
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.genruntimeconfig.cache

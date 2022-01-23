@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.exe
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.deps.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.runtimeconfig.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.dll
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\5. Print Even Numbers\bin\Debug\netcoreapp3.1\5. Print Even Numbers.pdb
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.dll
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.pdb
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\5. Print Even Numbers\obj\Debug\netcoreapp3.1\5. Print Even Numbers.genruntimeconfig.cache

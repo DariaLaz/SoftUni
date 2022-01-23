@@ -1,0 +1,12 @@
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.exe
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.deps.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.runtimeconfig.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.dll
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.pdb
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.dll
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.pdb
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.genruntimeconfig.cache

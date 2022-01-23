@@ -1,0 +1,12 @@
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.exe
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.deps.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.runtimeconfig.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\7. Pascal Triangle\bin\Debug\netcoreapp3.1\7. Pascal Triangle.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\MILTIDIMENSIONAL ARRAYS\7. Pascal Triangle\obj\Debug\netcoreapp3.1\7. Pascal Triangle.genruntimeconfig.cache

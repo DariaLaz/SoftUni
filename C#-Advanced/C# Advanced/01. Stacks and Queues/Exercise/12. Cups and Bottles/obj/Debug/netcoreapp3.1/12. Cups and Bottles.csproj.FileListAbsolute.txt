@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.exe
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.deps.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.runtimeconfig.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.dll
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.pdb
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.dll
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.pdb
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\EXERCISE\STACKS AND QUEUES EXERCISE\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.genruntimeconfig.cache

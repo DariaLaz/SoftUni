@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.exe
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.deps.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.runtimeconfig.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\08. Bombs\bin\Debug\netcoreapp3.1\08. Bombs.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\08. Bombs\obj\Debug\netcoreapp3.1\08. Bombs.genruntimeconfig.cache

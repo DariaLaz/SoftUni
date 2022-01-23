@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.exe
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.deps.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.runtimeconfig.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.dll
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\2. Stack Sum\bin\Debug\netcoreapp3.1\2. Stack Sum.pdb
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.dll
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.pdb
+E:\softuni\03. C# Advanced\01.  STACKS AND QUEUES\STACKS AND QUEUES\2. Stack Sum\obj\Debug\netcoreapp3.1\2. Stack Sum.genruntimeconfig.cache

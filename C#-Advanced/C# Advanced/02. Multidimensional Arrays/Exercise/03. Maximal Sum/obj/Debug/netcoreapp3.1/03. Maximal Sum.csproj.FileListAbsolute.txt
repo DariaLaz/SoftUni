@@ -1,0 +1,26 @@
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.exe
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.deps.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.runtimeconfig.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.genruntimeconfig.cache
+E:\softuni\03. C# Advanced\C# advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.exe
+E:\softuni\03. C# Advanced\C# advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.deps.json
+E:\softuni\03. C# Advanced\C# advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.dll
+E:\softuni\03. C# Advanced\C# advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.pdb
+E:\softuni\03. C# Advanced\C# advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.dll
+E:\softuni\03. C# Advanced\C# advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.pdb
+E:\softuni\03. C# Advanced\C# advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.genruntimeconfig.cache

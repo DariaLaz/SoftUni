@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.exe
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.deps.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.runtimeconfig.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.dll
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.pdb
+E:\softuni\03. C# Advanced\02. MILTIDIMENSIONAL ARRAYS\EXERCISE\MILTIDIMENSIONAL ARRAYS  EXERCISE\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.genruntimeconfig.cache
