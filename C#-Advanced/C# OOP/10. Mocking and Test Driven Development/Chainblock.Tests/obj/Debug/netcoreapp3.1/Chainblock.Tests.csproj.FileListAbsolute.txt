@@ -1,0 +1,2 @@
+E:\softuni\03. C# Advanced\C# OOP\10. Mocking and Test Driven Development\Exercise\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Exercise-Skeleton\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp3.1\Chainblock.Tests.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\10. Mocking and Test Driven Development\Exercise\10. CSharp-OOP-Mocking-And-Test-Driven-Development-Exercise-Skeleton\Chainblock - Skeleton\Chainblock.Tests\obj\Debug\netcoreapp3.1\Chainblock.Tests.AssemblyInfo.cs
