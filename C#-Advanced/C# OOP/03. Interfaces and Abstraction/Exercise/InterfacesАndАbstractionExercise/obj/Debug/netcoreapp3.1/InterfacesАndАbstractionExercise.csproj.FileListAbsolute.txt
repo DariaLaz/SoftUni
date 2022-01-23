@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\bin\Debug\netcoreapp3.1\InterfacesАndАbstractionExercise.exe
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\bin\Debug\netcoreapp3.1\InterfacesАndАbstractionExercise.deps.json
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\bin\Debug\netcoreapp3.1\InterfacesАndАbstractionExercise.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\bin\Debug\netcoreapp3.1\InterfacesАndАbstractionExercise.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\bin\Debug\netcoreapp3.1\InterfacesАndАbstractionExercise.dll
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\bin\Debug\netcoreapp3.1\InterfacesАndАbstractionExercise.pdb
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\obj\Debug\netcoreapp3.1\InterfacesАndАbstractionExercise.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\obj\Debug\netcoreapp3.1\InterfacesАndАbstractionExercise.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\obj\Debug\netcoreapp3.1\InterfacesАndАbstractionExercise.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\obj\Debug\netcoreapp3.1\InterfacesАndАbstractionExercise.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\obj\Debug\netcoreapp3.1\InterfacesАndАbstractionExercise.dll
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\obj\Debug\netcoreapp3.1\InterfacesАndАbstractionExercise.pdb
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\obj\Debug\netcoreapp3.1\InterfacesАndАbstractionExercise.genruntimeconfig.cache

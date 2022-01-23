@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\bin\Debug\netcoreapp3.1\PersonInfo.exe
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\bin\Debug\netcoreapp3.1\PersonInfo.dll
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\obj\Debug\netcoreapp3.1\PersonInfo.dll
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\InterfacesАndАbstractionExercise\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

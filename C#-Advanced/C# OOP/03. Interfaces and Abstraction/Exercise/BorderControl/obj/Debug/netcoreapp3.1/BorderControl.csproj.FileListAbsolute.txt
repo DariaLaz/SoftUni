@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache

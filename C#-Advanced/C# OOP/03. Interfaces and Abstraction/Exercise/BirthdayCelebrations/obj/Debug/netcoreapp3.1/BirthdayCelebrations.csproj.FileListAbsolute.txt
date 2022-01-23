@@ -1,0 +1,12 @@
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.exe
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.deps.json
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BirthdayCelebrations\bin\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.dll
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.pdb
+E:\softuni\03. C# Advanced\C# OOP\03. Interfaces and Abstraction\Exercise\Exercise\BirthdayCelebrations\obj\Debug\netcoreapp3.1\BirthdayCelebrations.genruntimeconfig.cache
