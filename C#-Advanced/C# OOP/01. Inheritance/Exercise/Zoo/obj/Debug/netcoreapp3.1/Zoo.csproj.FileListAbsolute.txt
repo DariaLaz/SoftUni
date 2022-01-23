@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache

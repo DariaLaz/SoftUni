@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.exe
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.deps.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.dll
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.pdb
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.dll
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.pdb
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.genruntimeconfig.cache

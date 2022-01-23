@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.exe
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.deps.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.dll
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.pdb
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.dll
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.pdb
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.genruntimeconfig.cache

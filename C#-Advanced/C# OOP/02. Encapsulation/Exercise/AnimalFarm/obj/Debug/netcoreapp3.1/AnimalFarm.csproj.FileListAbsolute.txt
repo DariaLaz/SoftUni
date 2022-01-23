@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.exe
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.deps.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.dll
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.pdb
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.dll
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.pdb
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.genruntimeconfig.cache

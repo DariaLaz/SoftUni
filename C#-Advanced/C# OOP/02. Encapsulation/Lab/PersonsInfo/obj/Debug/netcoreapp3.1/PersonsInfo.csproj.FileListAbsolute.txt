@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache

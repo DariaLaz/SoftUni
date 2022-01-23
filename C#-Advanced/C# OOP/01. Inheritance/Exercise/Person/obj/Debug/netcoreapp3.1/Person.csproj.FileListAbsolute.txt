@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.exe
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.dll
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\bin\Debug\netcoreapp3.1\Person.pdb
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.dll
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.pdb
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache

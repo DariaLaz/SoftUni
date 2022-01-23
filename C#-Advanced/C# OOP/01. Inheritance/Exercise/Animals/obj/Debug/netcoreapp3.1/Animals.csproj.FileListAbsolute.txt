@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

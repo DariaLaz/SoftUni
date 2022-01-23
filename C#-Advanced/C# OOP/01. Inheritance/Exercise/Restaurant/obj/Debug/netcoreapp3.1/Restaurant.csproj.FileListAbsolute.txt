@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

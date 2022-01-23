@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.exe
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.deps.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.dll
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.pdb
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.dll
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.pdb
+E:\softuni\03. C# Advanced\C# OOP\02. Encapsulation\Exercise\02. CSharp-OOP-Encapsulation-Exercise-AnimalFarm\AnimalFarm\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.genruntimeconfig.cache

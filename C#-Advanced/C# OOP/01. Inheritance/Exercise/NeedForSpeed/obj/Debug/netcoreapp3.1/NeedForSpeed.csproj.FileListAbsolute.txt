@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.exe
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.deps.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.dll
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.pdb
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.dll
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.pdb
+E:\softuni\03. C# Advanced\C# OOP\01. Inheritance\Exercise\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.genruntimeconfig.cache
