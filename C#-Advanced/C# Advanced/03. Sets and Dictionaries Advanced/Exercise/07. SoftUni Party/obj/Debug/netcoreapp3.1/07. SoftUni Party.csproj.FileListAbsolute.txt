@@ -1,0 +1,12 @@
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.exe
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.deps.json
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.json
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.dll
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.pdb
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.dll
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.pdb
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.genruntimeconfig.cache

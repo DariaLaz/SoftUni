@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "17S1Hs5tB2uvptR7nGUVOsVksrZ7N7FRlw41lXtKb6L3WYLafoHMPMg9EmnD3jSIS3BgdBvZ/j2TQpWaEiFw7w==",
+  "success": true,
+  "projectFilePath": "E:\\softuni\\03. C# Advanced\\C# advanced\\03. SETS AND DICTIONARIES ADVANCED\\SETS AND DICTIONARIES ADVANCED\\02. Average Student Grades\\02. Average Student Grades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

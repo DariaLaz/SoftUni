@@ -1,0 +1,12 @@
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.exe
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.deps.json
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.runtimeconfig.json
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.dll
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.pdb
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.dll
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.pdb
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.exe
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.deps.json
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.runtimeconfig.json
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.dll
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\03. Product Shop\bin\Debug\netcoreapp3.1\03. Product Shop.pdb
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.dll
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.pdb
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\03. Product Shop\obj\Debug\netcoreapp3.1\03. Product Shop.genruntimeconfig.cache

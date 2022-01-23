@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.exe
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.deps.json
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.runtimeconfig.json
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.dll
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.pdb
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.dll
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.pdb
+E:\softuni\03. C# Advanced\03. SETS AND DICTIONARIES ADVANCED\SETS AND DICTIONARIES ADVANCED\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.genruntimeconfig.cache
