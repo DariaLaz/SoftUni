@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.exe
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.deps.json
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.dll
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\Stealer\bin\Debug\netcoreapp3.1\Stealer.pdb
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.dll
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.pdb
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\Stealer\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache

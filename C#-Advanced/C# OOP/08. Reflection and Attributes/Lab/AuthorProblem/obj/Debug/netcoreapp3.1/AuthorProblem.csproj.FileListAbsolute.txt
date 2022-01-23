@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+E:\softuni\03. C# Advanced\C# OOP\08. Reflection and Attributes\Reflection and Attributes\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache
