@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\03. Unit Tests_Skeleton (4)\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.exe
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\03. Unit Tests_Skeleton (4)\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.deps.json
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\03. Unit Tests_Skeleton (4)\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\03. Unit Tests_Skeleton (4)\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\03. Unit Tests_Skeleton (4)\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.dll
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\03. Unit Tests_Skeleton (4)\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.pdb
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\03. Unit Tests_Skeleton (4)\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\03. Unit Tests_Skeleton (4)\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\03. Unit Tests_Skeleton (4)\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\03. Unit Tests_Skeleton (4)\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\03. Unit Tests_Skeleton (4)\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.dll
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\03. Unit Tests_Skeleton (4)\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.pdb
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\03. Unit Tests_Skeleton (4)\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.genruntimeconfig.cache

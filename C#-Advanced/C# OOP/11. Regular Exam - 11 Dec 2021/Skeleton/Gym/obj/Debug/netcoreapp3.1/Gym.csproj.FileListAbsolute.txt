@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.exe
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.deps.json
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.dll
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.pdb
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.dll
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.pdb
+E:\softuni\03. C# Advanced\C# OOP\EXAM C# OOP Exam - 11 December 2021\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.genruntimeconfig.cache
