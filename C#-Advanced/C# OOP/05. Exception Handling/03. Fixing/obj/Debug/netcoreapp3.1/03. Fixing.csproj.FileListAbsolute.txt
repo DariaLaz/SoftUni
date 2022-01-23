@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\03. Fixing\bin\Debug\netcoreapp3.1\03. Fixing.exe
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\03. Fixing\bin\Debug\netcoreapp3.1\03. Fixing.deps.json
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\03. Fixing\bin\Debug\netcoreapp3.1\03. Fixing.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\03. Fixing\bin\Debug\netcoreapp3.1\03. Fixing.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\03. Fixing\bin\Debug\netcoreapp3.1\03. Fixing.dll
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\03. Fixing\bin\Debug\netcoreapp3.1\03. Fixing.pdb
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\03. Fixing\obj\Debug\netcoreapp3.1\03. Fixing.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\03. Fixing\obj\Debug\netcoreapp3.1\03. Fixing.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\03. Fixing\obj\Debug\netcoreapp3.1\03. Fixing.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\03. Fixing\obj\Debug\netcoreapp3.1\03. Fixing.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\03. Fixing\obj\Debug\netcoreapp3.1\03. Fixing.dll
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\03. Fixing\obj\Debug\netcoreapp3.1\03. Fixing.pdb
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\03. Fixing\obj\Debug\netcoreapp3.1\03. Fixing.genruntimeconfig.cache

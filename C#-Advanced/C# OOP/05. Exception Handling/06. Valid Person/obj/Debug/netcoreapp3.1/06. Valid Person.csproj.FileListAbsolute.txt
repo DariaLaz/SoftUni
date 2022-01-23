@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.exe
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.deps.json
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.runtimeconfig.json
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.dll
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\06. Valid Person\bin\Debug\netcoreapp3.1\06. Valid Person.pdb
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.dll
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.pdb
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.genruntimeconfig.cache
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\06. Valid Person\obj\Debug\netcoreapp3.1\06. Valid Person.csprojAssemblyReference.cache

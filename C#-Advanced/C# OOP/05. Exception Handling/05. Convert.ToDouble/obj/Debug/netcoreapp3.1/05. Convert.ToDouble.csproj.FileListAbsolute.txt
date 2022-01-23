@@ -1,0 +1,4 @@
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\05. Convert.ToDouble\obj\Debug\netcoreapp3.1\05. Convert.ToDouble.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\05. Convert.ToDouble\obj\Debug\netcoreapp3.1\05. Convert.ToDouble.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\05. Convert.ToDouble\obj\Debug\netcoreapp3.1\05. Convert.ToDouble.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\05. Exception Handling\Exception Handling\05. Convert.ToDouble\obj\Debug\netcoreapp3.1\05. Convert.ToDouble.csproj.CoreCompileInputs.cache
