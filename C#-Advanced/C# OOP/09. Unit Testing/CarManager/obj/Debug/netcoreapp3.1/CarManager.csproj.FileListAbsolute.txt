@@ -1,0 +1,9 @@
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

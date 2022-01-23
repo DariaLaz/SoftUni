@@ -1,0 +1,9 @@
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb

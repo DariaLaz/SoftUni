@@ -1,0 +1,9 @@
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
+E:\softuni\03. C# Advanced\C# OOP\09. Unit Testing\Exercise\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb
