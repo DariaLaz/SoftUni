@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.exe
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.deps.json
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.runtimeconfig.json
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.dll
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\01. Food Finder\bin\Debug\netcoreapp3.1\01. Food Finder.pdb
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.dll
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.pdb
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\01. Food Finder\obj\Debug\netcoreapp3.1\01. Food Finder.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.exe
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.deps.json
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.runtimeconfig.json
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.dll
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\02. Pawn Wars\bin\Debug\netcoreapp3.1\02. Pawn Wars.pdb
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.dll
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.pdb
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\Regular exam\02. Pawn Wars\obj\Debug\netcoreapp3.1\02. Pawn Wars.genruntimeconfig.cache

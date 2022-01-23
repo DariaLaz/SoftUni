@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+E:\softuni\03. C# Advanced\09. Regular exam C# Advanced Exam - 23 October 2021\03. Stock Market_Skeleton\Skeleton\StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache
