@@ -10,8 +10,8 @@ function solve() {
 
     let result = function result() {
         let result = 0;
-        let num = document.getElementById('input').value;
-        let numSyst = document.getElementById('selectMenuTo');
+        let num = document.querySelector('#input').value;
+        let numSyst = document.querySelector('#selectMenuTo');
         
         if(numSyst.value == 'binary'){
             let rem;
@@ -25,7 +25,7 @@ function solve() {
         } else if(numSyst.value == 'hexadecimal'){
             result = Number(num).toString(16).toUpperCase();
         }
-        document.getElementById('result').value = result;
+        document.querySelector('#result').value = result;
     }
     document.getElementsByTagName('button')[0].onclick = result;
 }
