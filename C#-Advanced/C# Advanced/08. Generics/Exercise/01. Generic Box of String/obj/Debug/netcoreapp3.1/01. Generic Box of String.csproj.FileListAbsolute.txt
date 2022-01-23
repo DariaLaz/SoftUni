@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.exe
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.deps.json
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.runtimeconfig.json
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.dll
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. Generic Box of String.pdb
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.dll
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.pdb
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. Generic Box of String.genruntimeconfig.cache

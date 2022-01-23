@@ -1,0 +1,12 @@
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. GenericCountMethodStrings.exe
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. GenericCountMethodStrings.deps.json
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. GenericCountMethodStrings.runtimeconfig.json
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. GenericCountMethodStrings.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. GenericCountMethodStrings.dll
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\bin\Debug\netcoreapp3.1\01. GenericCountMethodStrings.pdb
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. GenericCountMethodStrings.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. GenericCountMethodStrings.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. GenericCountMethodStrings.dll
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. GenericCountMethodStrings.pdb
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\01. Generic Box of String\obj\Debug\netcoreapp3.1\01. GenericCountMethodStrings.genruntimeconfig.cache

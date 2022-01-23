@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.exe
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.deps.json
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.json
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.dll
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.pdb
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.dll
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.pdb
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.exe
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.deps.json
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.runtimeconfig.json
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.dll
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.pdb
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.dll
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.pdb
+E:\softuni\03. C# Advanced\08. GENERICS\EXERCISE\GENERICS - EXERCISE\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.genruntimeconfig.cache
