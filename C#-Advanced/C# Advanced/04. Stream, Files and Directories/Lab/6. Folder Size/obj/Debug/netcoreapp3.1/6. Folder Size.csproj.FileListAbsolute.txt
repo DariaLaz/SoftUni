@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.exe
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.deps.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.runtimeconfig.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.dll
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\6. Folder Size\bin\Debug\netcoreapp3.1\6. Folder Size.pdb
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.dll
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.pdb
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\6. Folder Size\obj\Debug\netcoreapp3.1\6. Folder Size.genruntimeconfig.cache

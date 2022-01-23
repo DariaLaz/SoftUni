@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.exe
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.deps.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.runtimeconfig.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.dll
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\1. Even Lines\bin\Debug\netcoreapp3.1\1. Even Lines.pdb
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.dll
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.pdb
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\1. Even Lines\obj\Debug\netcoreapp3.1\1. Even Lines.genruntimeconfig.cache

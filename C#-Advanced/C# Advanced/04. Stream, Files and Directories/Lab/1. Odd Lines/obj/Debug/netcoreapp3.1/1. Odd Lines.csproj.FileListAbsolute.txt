@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.exe
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.deps.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.runtimeconfig.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.dll
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.pdb
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.dll
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.pdb
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.genruntimeconfig.cache

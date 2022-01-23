@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.exe
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.deps.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.runtimeconfig.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.dll
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.pdb
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.dll
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.pdb
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.genruntimeconfig.cache

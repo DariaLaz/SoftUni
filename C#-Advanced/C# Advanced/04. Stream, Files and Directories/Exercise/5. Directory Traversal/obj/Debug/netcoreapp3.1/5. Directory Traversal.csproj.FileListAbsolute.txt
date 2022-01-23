@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.exe
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.deps.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.runtimeconfig.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.dll
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\5. Directory Traversal\bin\Debug\netcoreapp3.1\5. Directory Traversal.pdb
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.dll
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.pdb
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\5. Directory Traversal\obj\Debug\netcoreapp3.1\5. Directory Traversal.genruntimeconfig.cache

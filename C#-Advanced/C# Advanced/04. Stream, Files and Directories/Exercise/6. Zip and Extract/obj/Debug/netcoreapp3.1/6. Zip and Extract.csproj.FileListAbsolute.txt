@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.exe
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.deps.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.runtimeconfig.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.dll
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\6. Zip and Extract\bin\Debug\netcoreapp3.1\6. Zip and Extract.pdb
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.dll
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.pdb
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.genruntimeconfig.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\EXERCISE\STREAMS, FILES AND DIRECTORIES - EXERCISE\6. Zip and Extract\obj\Debug\netcoreapp3.1\6. Zip and Extract.csprojAssemblyReference.cache

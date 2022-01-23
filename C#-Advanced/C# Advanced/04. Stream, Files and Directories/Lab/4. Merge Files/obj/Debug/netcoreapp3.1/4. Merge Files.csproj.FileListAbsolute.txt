@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.exe
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.deps.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.runtimeconfig.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.dll
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\4. Merge Files\bin\Debug\netcoreapp3.1\4. Merge Files.pdb
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.dll
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.pdb
+E:\softuni\03. C# Advanced\04. STREAMS, FILES AND DIRECTORIES\STREAMS, FILES AND DIRECTORIES\4. Merge Files\obj\Debug\netcoreapp3.1\4. Merge Files.genruntimeconfig.cache
