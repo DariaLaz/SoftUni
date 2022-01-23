@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.exe
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.deps.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.dll
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.pdb
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.dll
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.pdb
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.genruntimeconfig.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csprojAssemblyReference.cache

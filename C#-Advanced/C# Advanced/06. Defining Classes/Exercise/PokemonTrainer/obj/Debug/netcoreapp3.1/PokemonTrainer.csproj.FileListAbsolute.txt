@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.exe
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.deps.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.runtimeconfig.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.dll
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.pdb
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.dll
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.pdb
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.genruntimeconfig.cache

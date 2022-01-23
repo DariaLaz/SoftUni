@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\DEFINING CLASSES\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.exe
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\DEFINING CLASSES\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.deps.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\DEFINING CLASSES\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\DEFINING CLASSES\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\DEFINING CLASSES\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.dll
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\DEFINING CLASSES\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.pdb
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\DEFINING CLASSES\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\DEFINING CLASSES\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\DEFINING CLASSES\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\DEFINING CLASSES\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\DEFINING CLASSES\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.dll
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\DEFINING CLASSES\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.pdb
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\DEFINING CLASSES\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.genruntimeconfig.cache

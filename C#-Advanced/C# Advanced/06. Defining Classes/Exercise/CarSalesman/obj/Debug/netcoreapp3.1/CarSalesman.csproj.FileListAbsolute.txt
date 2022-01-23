@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.exe
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.deps.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.dll
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.pdb
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.dll
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.pdb
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.exe
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.deps.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.runtimeconfig.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.dll
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\Speed Racing\bin\Debug\netcoreapp3.1\Speed Racing.pdb
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.dll
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.pdb
+E:\softuni\03. C# Advanced\06. DEFINING CLASSES\EXERCISE\DEFINING CLASSES - EXERCISE\DefiningClasses\Speed Racing\obj\Debug\netcoreapp3.1\Speed Racing.genruntimeconfig.cache
