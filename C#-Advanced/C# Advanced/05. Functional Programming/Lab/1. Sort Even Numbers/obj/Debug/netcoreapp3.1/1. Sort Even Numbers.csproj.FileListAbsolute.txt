@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.exe
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.deps.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.runtimeconfig.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.dll
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.pdb
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.dll
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.pdb
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\bin\Debug\netcoreapp3.1\3. Count Uppercase Words.exe
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\bin\Debug\netcoreapp3.1\3. Count Uppercase Words.deps.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\bin\Debug\netcoreapp3.1\3. Count Uppercase Words.runtimeconfig.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\bin\Debug\netcoreapp3.1\3. Count Uppercase Words.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\bin\Debug\netcoreapp3.1\3. Count Uppercase Words.dll
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\bin\Debug\netcoreapp3.1\3. Count Uppercase Words.pdb
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\obj\Debug\netcoreapp3.1\3. Count Uppercase Words.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\obj\Debug\netcoreapp3.1\3. Count Uppercase Words.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\obj\Debug\netcoreapp3.1\3. Count Uppercase Words.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\obj\Debug\netcoreapp3.1\3. Count Uppercase Words.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\obj\Debug\netcoreapp3.1\3. Count Uppercase Words.dll
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\obj\Debug\netcoreapp3.1\3. Count Uppercase Words.pdb
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\3. Count Uppercase Words\obj\Debug\netcoreapp3.1\3. Count Uppercase Words.genruntimeconfig.cache

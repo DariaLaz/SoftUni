@@ -1,0 +1,12 @@
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.exe
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.deps.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.runtimeconfig.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.dll
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\06. Reverse And Exclude\bin\Debug\netcoreapp3.1\06. Reverse And Exclude.pdb
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.dll
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.pdb
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\06. Reverse And Exclude\obj\Debug\netcoreapp3.1\06. Reverse And Exclude.genruntimeconfig.cache

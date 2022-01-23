@@ -1,0 +1,12 @@
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\4. Add VAT\bin\Debug\netcoreapp3.1\4. Add VAT.exe
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\4. Add VAT\bin\Debug\netcoreapp3.1\4. Add VAT.deps.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\4. Add VAT\bin\Debug\netcoreapp3.1\4. Add VAT.runtimeconfig.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\4. Add VAT\bin\Debug\netcoreapp3.1\4. Add VAT.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\4. Add VAT\bin\Debug\netcoreapp3.1\4. Add VAT.dll
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\4. Add VAT\bin\Debug\netcoreapp3.1\4. Add VAT.pdb
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\4. Add VAT\obj\Debug\netcoreapp3.1\4. Add VAT.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\4. Add VAT\obj\Debug\netcoreapp3.1\4. Add VAT.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\4. Add VAT\obj\Debug\netcoreapp3.1\4. Add VAT.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\4. Add VAT\obj\Debug\netcoreapp3.1\4. Add VAT.dll
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\4. Add VAT\obj\Debug\netcoreapp3.1\4. Add VAT.pdb
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\FUNCTIONAL PROGRAMMING\4. Add VAT\obj\Debug\netcoreapp3.1\4. Add VAT.genruntimeconfig.cache

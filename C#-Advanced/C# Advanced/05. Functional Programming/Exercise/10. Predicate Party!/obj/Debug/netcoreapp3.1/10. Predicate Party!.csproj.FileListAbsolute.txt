@@ -1,0 +1,13 @@
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.exe
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.deps.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.runtimeconfig.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.dll
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.pdb
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.csprojAssemblyReference.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.dll
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.pdb
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.exe
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.deps.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.runtimeconfig.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.dll
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\08. Custom Comparator\bin\Debug\netcoreapp3.1\08. Custom Comparator.pdb
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.dll
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.pdb
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\08. Custom Comparator\obj\Debug\netcoreapp3.1\08. Custom Comparator.genruntimeconfig.cache

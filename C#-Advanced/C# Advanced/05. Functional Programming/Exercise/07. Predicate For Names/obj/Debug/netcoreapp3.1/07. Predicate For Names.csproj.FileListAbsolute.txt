@@ -1,0 +1,12 @@
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.exe
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.deps.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.runtimeconfig.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.runtimeconfig.dev.json
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.dll
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.pdb
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.AssemblyInfoInputs.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.AssemblyInfo.cs
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.csproj.CoreCompileInputs.cache
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.dll
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.pdb
+E:\softuni\03. C# Advanced\05. FUNCTIONAL PROGRAMMING\EXERCISE\FUNCTIONAL PROGRAMMING - EXERCISE\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.genruntimeconfig.cache
