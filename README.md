@@ -1,2 +1,2 @@
 # SoftUni
-Courses from SoftUni
+Homeworks, labs and projects from SoftUni
