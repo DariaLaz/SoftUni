@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+}
+nav{
+    background-color: #D3D3D3;
+    padding: 20px;
+    text-align: center;
+    
+}
+nav a:hover{
+    background-color: #009900;
+    color: #D3D3D3;
+    padding: 15%;
+    border-radius: 10px;
+}
+nav li{
+    padding: 0 25px;
+    display: inline-block;
+}
+nav li a{
+    color: #009900;
+    text-decoration: none;
+}
