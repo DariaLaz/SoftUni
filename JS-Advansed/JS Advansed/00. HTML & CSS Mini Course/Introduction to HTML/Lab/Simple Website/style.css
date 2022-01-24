@@ -1,0 +1,32 @@
+*{
+    margin:0;
+}
+nav{
+    background-color: #234467;
+    padding: 17px;
+    text-align: center;
+}
+nav li{
+    padding: 0 25px;
+    display: inline-block;
+}
+nav li a{
+    color: white;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+section{
+    margin: 7% 13% 3% 13%;
+}
+article p{
+    margin: 19px;
+}
+footer{
+    background-color: #234467;
+    color: white;
+    text-align: center;
+    padding: 17px;
+    margin: 21% 0% 0% 0%;
+}
