@@ -1,0 +1,53 @@
+body{
+    background-color: #F0F1F5;
+    margin: 0;
+    padding: 2rem 12rem;
+    font-family: 'Helvetica', sans-serif;
+}
+header > p{
+    float: left;
+    color: orange;
+}
+nav{
+    text-align: right;
+}
+nav ul{
+    float: right;
+}
+nav ul li{
+    display: inline-block;
+    padding: 0 8px;
+}
+nav ul li a{
+    color: orange;
+    text-decoration: none; 
+}
+main section:nth-child(1){
+    margin-top: 4rem;
+    background-image: url(../L2_01_Fitness-Site/Requirements-and-Resources/Images/picture.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 11rem 15rem;
+}
+main section:nth-child(1) h1{
+    color: white;
+}
+main section:nth-child(1) span{
+    color: orange;
+}
+
+main section:nth-child(1) button{
+    background: orange;
+    border: none;
+    color: white;
+    font-size: 22px;
+    padding: 12px;
+    font-weight: bold;
+}
+main section:nth-child(2) article{
+    color: white;
+    background-color: orange;
+    width: 29%;
+    display: inline-block;
+    padding: 20px;
+}
