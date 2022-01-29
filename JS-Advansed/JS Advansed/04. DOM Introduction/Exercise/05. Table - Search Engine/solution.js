@@ -2,13 +2,15 @@ function solve() {
    document.querySelector('#searchBtn').addEventListener('click', onClick);
 
    function onClick() {
-      let searchText = document.getElementById('searchField').value.toLocaleLowerCase();
-      let cellElements = document.querySelectorAll('tbody tr')
-      let infoArr = Array.from(cellElements);
+      let searchText = document.getElementById('searchField');
+      let rows = document.querySelectorAll('tbody tr')
+      let infoArr = Array.from(rows);
       infoArr.forEach(x => {
-         if(x.textContent.toLocaleLowerCase().includes(searchText)){
+         x.classList.remove('select');
+         if(x.textContent.includes(searchText.value)){
             x.classList.add('select')
          }
       });
+      searchText = ''
    }
 }
