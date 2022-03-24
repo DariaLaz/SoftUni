@@ -2,6 +2,7 @@ import { login } from '../api/data.js';
 import {html} from '../lib.js'
 
 const loginTemplate = (onSubmit) => html`
+<!-- Login Page ( Only for Guest users ) -->
         <section id="login-page" class="auth">
             <form id="login" @submit=${onSubmit}>
 
@@ -31,6 +32,7 @@ export async function loginPage(ctx){
         if(email == '' || password == ''){
             return alert('Pleasse fill both fields')
         }
+
         await login(email, password);
         ctx.updateUserNav();
         ctx.page.redirect('/')

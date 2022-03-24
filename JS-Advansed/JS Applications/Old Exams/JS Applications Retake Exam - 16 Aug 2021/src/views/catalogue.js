@@ -2,13 +2,14 @@ import { getAllGames } from '../api/data.js'
 import {html} from '../lib.js'
 
 const catalogueTemplate = (games) => html`
+<!-- Catalogue -->
         <section id="catalog-page">
             <h1>All Games</h1>
 
             ${games.length == 0
             ? html`<h3 class="no-articles">No articles yet</h3>`
             : games.map(gameTemplate)}
-            
+
         </section>`
 
 let gameTemplate = (game) => html`
@@ -23,5 +24,6 @@ let gameTemplate = (game) => html`
 
 export async function cataloguePage(ctx){
     let games = await getAllGames();
+    
     ctx.render(catalogueTemplate(games))
 }

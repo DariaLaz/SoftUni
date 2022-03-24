@@ -2,6 +2,7 @@ import { getRecentGames } from '../api/data.js'
 import {html} from '../lib.js'
 
 const homeTemplate = (games) => html`
+<!--Home Page-->
 <section id="welcome-world">
 
 <div class="welcome-message">
@@ -13,14 +14,10 @@ const homeTemplate = (games) => html`
 <div id="home-page">
     <h1>Latest Games</h1>
 
-    <!-- Display div: with information about every game (if any) -->
     ${games.length == 0
     ? html`<p class="no-articles">No games yet</p>`
     : games.map(gameTemplate)}
-    
 
-    <!-- Display paragraph: If there is no games  -->
-    
 </div>
 </section>`
 

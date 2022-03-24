@@ -2,6 +2,7 @@ import { register } from '../api/data.js';
 import {html} from '../lib.js'
 
 const registerTemplate = (onSubmit) => html`
+<!-- Register Page ( Only for Guest users ) -->
         <section id="register-page" class="content auth">
             <form id="register" @submit=${onSubmit}>
                 <div class="container">

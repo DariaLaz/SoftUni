@@ -23,7 +23,6 @@ export function updateUserNav(){
         document.querySelector('#guest').style.display = 'inline-block'
     }
 }
-
 function onLogout(){
     logout();
     updateUserNav();

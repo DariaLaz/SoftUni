@@ -28,10 +28,12 @@ const editTemplate = (game, onSubmit) => html`
         </section>`
 
 export async function editPage(ctx){
-    const game = await getGameById(ctx.params.id)
-    ctx.render(editTemplate(game, onSubmit))
-    
+    let id = ctx.params.id;
+    let currentGame = await getGameById(id);
+    ctx.render(editTemplate(currentGame, onSubmit))
+
     async function onSubmit(e){
+        e.preventDefault();
         const formData = new FormData(e.target);
         
         const title= formData.get('title')
@@ -40,12 +42,11 @@ export async function editPage(ctx){
         const imageUrl= formData.get('imageUrl')
         const summary= formData.get('summary')
 
-
         if(title == '' || category == '' || maxLevel == '' || imageUrl == '' || summary == ''){
             return alert('Pleasse fill all fields')
         }
         
-        await editGame(ctx.params.id, {
+        await editGame( id, {
             title,
             category,
             maxLevel,
@@ -53,6 +54,6 @@ export async function editPage(ctx){
             summary
         })
        
-       ctx.page.redirect(`/details/${ctx.params.id}`)
+       ctx.page.redirect('/')
     }
 }

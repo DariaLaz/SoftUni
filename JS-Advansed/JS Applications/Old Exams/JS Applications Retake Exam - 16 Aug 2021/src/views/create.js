@@ -2,6 +2,7 @@ import { createGame } from '../api/data.js';
 import {html} from '../lib.js'
 
 const createTemplate = (onSubmit) => html`
+<!-- Create Page ( Only for logged-in users ) -->
         <section id="create-page" class="auth">
             <form id="create" @submit=${onSubmit}>
                 <div class="container">
@@ -38,7 +39,6 @@ export async function createPage(ctx){
         const maxLevel= formData.get('maxLevel')
         const imageUrl= formData.get('imageUrl')
         const summary= formData.get('summary')
-
 
         if(title == '' || category == '' || maxLevel == '' || imageUrl == '' || summary == ''){
             return alert('Pleasse fill all fields')

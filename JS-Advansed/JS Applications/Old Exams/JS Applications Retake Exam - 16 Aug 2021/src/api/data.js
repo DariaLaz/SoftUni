@@ -20,18 +20,18 @@ export async function getGameById(id){
     return api.get('/data/games/' + id);
 }
 
-export async function deleteGame(id){
-    return api.del('/data/games/' + id);
-}
-
 export async function editGame(id, game){
     return api.put('/data/games/' + id, game);
 }
 
-export async function getCommentsById(gameId){
+export async function deleteGame(id){
+    return api.del('/data/games/' + id);
+}
+
+export async function allCommentdByGameId(gameId){
     return api.get(`/data/comments?where=gameId%3D%22${gameId}%22`);
 }
 
-export async function comment(comment){
+export async function createComment(comment){
     return api.post(`/data/comments`, comment);
 }
