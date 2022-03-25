@@ -6,7 +6,7 @@ import { detailsPage } from './views/details.js';
 import { editPage } from './views/edit.js';
 import { homePage } from './views/home.js';
 import { loginPage } from './views/login.js';
-import { registerPage } from './views/registration.js';
+import { registerPage } from './views/register.js';
 import { searchPage } from './views/search.js';
 
 page(decorateContext);
@@ -18,6 +18,7 @@ page('/register', registerPage)
 page('/create', createPage)
 page('/details/:id', detailsPage)
 page('/edit/:id', editPage)
+
 
 updateUserNav();
 
