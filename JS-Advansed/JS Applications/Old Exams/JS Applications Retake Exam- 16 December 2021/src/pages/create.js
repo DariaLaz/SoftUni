@@ -1,8 +1,9 @@
-import { createEvent } from '../api/data.js';
-import { html } from '../lib.js'
+import { createTheater } from '../api/user.js';
+import {html} from '../library.js'
 
-const createTemplete = (onSubmit) => html`
-        <section id="createPage">
+const createTemplate = (onSubmit) => html`
+<!--Create Page-->
+<section id="createPage">
             <form class="create-form" @submit=${onSubmit}>
                 <h1>Create Theater</h1>
                 <div>
@@ -27,33 +28,33 @@ const createTemplete = (onSubmit) => html`
                 </div>
                 <button class="btn" type="submit">Submit</button>
             </form>
-        </section>`;
+        </section>`
 
-export function createPage(ctx){
-    ctx.render(createTemplete(onSubmit))
-
+export async function createPage(ctx){
+    ctx.render(createTemplate(onSubmit))
     async function onSubmit(e){
         e.preventDefault();
-
         const formData = new FormData(e.target);
+        
+        const title= formData.get('title')
+        const date= formData.get('date')
+        const author= formData.get('author')
+        const imageUrl= formData.get('imageUrl')
+        const description= formData.get('description')
 
-        const title = formData.get('title')
-        const date = formData.get('date')
-        const author = formData.get('author')
-        const description = formData.get('description')
-        const imageUrl = formData.get('imageUrl')
-
-        if(title == '' || description == '' || imageUrl == '' || date == '' || author == ''){
-            alert('All fields are required');
-            return;
-        }
-
-        await createEvent({
+        if(title == '' || date == '' || author == '' || 
+        imageUrl == '' || description == ''){
+            return alert('Please fill all fields')
+        } 
+        
+        await createTheater( {
             title,
             date,
             author,
             imageUrl,
-            description })
-        ctx.page.redirect('/')
+            description
+        })
+       
+       ctx.page.redirect('/')
     }
 }

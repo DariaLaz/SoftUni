@@ -1,9 +1,9 @@
-import { login } from '../api/users.js';
-import {html, page} from '../lib.js'
+import { loginUser } from '../api/user.js';
+import {html} from '../library.js'
 
-
-const loginTemplete = (onSubmit) => html`
-        <section id="loginaPage">
+const loginTemplate = (onSubmit) => html`
+ <!--Login Page-->
+ <section id="loginaPage">
             <form class="loginForm" @submit=${onSubmit}>
                 <h2>Login</h2>
                 <div>
@@ -21,23 +21,22 @@ const loginTemplete = (onSubmit) => html`
                     <span>If you don't have profile click <a href="/register">here</a></span>
                 </p>
             </form>
-        </section>`;
+        </section>`
 
-export function loginPage(ctx){
-    ctx.render(loginTemplete(onSubmit))
+export async function loginPage(ctx){
+    ctx.render(loginTemplate(onSubmit))
 
     async function onSubmit(e){
-        e.preventDefault()
-        let form = document.querySelector('form');
-        let formData = new FormData(form);
-        let email = formData.get('email')
-        let password = formData.get('password')
-
+        e.preventDefault();
+        const formData = new FormData(e.target);
+        const email= formData.get('email')
+        const password= formData.get('password')
         if(email == '' || password == ''){
-            alert('Both fields are required')
-        } else{
-            await login(email, password);
-            page.redirect('/')
+            return alert('Pleasse fill both fields')
         }
+
+        await loginUser(email, password);
+        ctx.manageUserNavigation();
+        ctx.page.redirect('/')
     }
 }
