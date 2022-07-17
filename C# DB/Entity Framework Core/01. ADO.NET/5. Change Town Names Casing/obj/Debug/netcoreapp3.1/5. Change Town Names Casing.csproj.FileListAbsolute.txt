@@ -1,0 +1,20 @@
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\5. Change Town Names Casing.exe
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\5. Change Town Names Casing.deps.json
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\5. Change Town Names Casing.runtimeconfig.json
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\5. Change Town Names Casing.runtimeconfig.dev.json
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\5. Change Town Names Casing.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\5. Change Town Names Casing.pdb
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\obj\Debug\netcoreapp3.1\5. Change Town Names Casing.csprojAssemblyReference.cache
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\obj\Debug\netcoreapp3.1\5. Change Town Names Casing.AssemblyInfoInputs.cache
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\obj\Debug\netcoreapp3.1\5. Change Town Names Casing.AssemblyInfo.cs
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\obj\Debug\netcoreapp3.1\5. Change Town Names Casing.csproj.CoreCompileInputs.cache
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\obj\Debug\netcoreapp3.1\5. Change Town Names Casing.csproj.CopyComplete
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\obj\Debug\netcoreapp3.1\5. Change Town Names Casing.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\obj\Debug\netcoreapp3.1\5. Change Town Names Casing.pdb
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\5. Change Town Names Casing\obj\Debug\netcoreapp3.1\5. Change Town Names Casing.genruntimeconfig.cache

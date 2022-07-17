@@ -1,0 +1,20 @@
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\6. Remove Villain.exe
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\6. Remove Villain.deps.json
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\6. Remove Villain.runtimeconfig.json
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\6. Remove Villain.runtimeconfig.dev.json
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\6. Remove Villain.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\6. Remove Villain.pdb
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\obj\Debug\netcoreapp3.1\6. Remove Villain.csprojAssemblyReference.cache
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\obj\Debug\netcoreapp3.1\6. Remove Villain.AssemblyInfoInputs.cache
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\obj\Debug\netcoreapp3.1\6. Remove Villain.AssemblyInfo.cs
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\obj\Debug\netcoreapp3.1\6. Remove Villain.csproj.CoreCompileInputs.cache
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\obj\Debug\netcoreapp3.1\6. Remove Villain.csproj.CopyComplete
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\obj\Debug\netcoreapp3.1\6. Remove Villain.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\obj\Debug\netcoreapp3.1\6. Remove Villain.pdb
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\6. Remove Villain\obj\Debug\netcoreapp3.1\6. Remove Villain.genruntimeconfig.cache

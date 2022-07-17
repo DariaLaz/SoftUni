@@ -1,0 +1,20 @@
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\7. Print All Minion Names.exe
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\7. Print All Minion Names.deps.json
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\7. Print All Minion Names.runtimeconfig.json
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\7. Print All Minion Names.runtimeconfig.dev.json
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\7. Print All Minion Names.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\7. Print All Minion Names.pdb
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\obj\Debug\netcoreapp3.1\7. Print All Minion Names.csprojAssemblyReference.cache
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\obj\Debug\netcoreapp3.1\7. Print All Minion Names.AssemblyInfoInputs.cache
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\obj\Debug\netcoreapp3.1\7. Print All Minion Names.AssemblyInfo.cs
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\obj\Debug\netcoreapp3.1\7. Print All Minion Names.csproj.CoreCompileInputs.cache
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\obj\Debug\netcoreapp3.1\7. Print All Minion Names.csproj.CopyComplete
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\obj\Debug\netcoreapp3.1\7. Print All Minion Names.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\obj\Debug\netcoreapp3.1\7. Print All Minion Names.pdb
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\7. Print All Minion Names\obj\Debug\netcoreapp3.1\7. Print All Minion Names.genruntimeconfig.cache

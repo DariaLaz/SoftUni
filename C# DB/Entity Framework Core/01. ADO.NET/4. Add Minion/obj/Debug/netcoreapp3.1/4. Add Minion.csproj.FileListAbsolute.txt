@@ -1,0 +1,20 @@
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\4. Add Minion.exe
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\4. Add Minion.deps.json
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\4. Add Minion.runtimeconfig.json
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\4. Add Minion.runtimeconfig.dev.json
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\4. Add Minion.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\4. Add Minion.pdb
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\obj\Debug\netcoreapp3.1\4. Add Minion.csprojAssemblyReference.cache
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\obj\Debug\netcoreapp3.1\4. Add Minion.AssemblyInfoInputs.cache
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\obj\Debug\netcoreapp3.1\4. Add Minion.AssemblyInfo.cs
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\obj\Debug\netcoreapp3.1\4. Add Minion.csproj.CoreCompileInputs.cache
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\obj\Debug\netcoreapp3.1\4. Add Minion.csproj.CopyComplete
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\obj\Debug\netcoreapp3.1\4. Add Minion.dll
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\obj\Debug\netcoreapp3.1\4. Add Minion.pdb
+E:\softuni\05. C# DB\Entity Framework Core\01. ADO.NET\Exercise\ADO.NET\4. Add Minion\obj\Debug\netcoreapp3.1\4. Add Minion.genruntimeconfig.cache
